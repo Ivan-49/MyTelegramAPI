@@ -1,0 +1,61 @@
+(.venv) PS C:\Users\remne\Documents\Git\MyTelegramAPI\userbot> python .\main.py
+TgCrypto is missing! Pyrogram will work the same, but at a much slower speed. More info: https://docs.pyrogram.org/topics/speedups
+{
+    "_": "Message",
+    "id": 360971,
+    "from_user": {
+        "_": "User",
+        "id": 6331746672,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "is_premium": false,
+        "first_name": "Адрей",
+        "last_name": "Сводин",
+        "status": "UserStatus.RECENTLY",
+        "username": "AndreySvodin",
+        "dc_id": 2,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAgAD0NUxGwAB5YhJABACAANwyWZ5AQADcroDlnmtY8sABB4E",
+            "small_photo_unique_id": "AgAD0NUxGwAB5YhJ",
+            "big_file_id": "AQADAgAD0NUxGwAB5YhJABADAANwyWZ5AQADcroDlnmtY8sABB4E",
+            "big_photo_unique_id": "AgAD0NUxGwAB5YhJ"
+        }
+    },
+    "date": "2024-10-20 23:58:31",
+    "chat": {
+        "_": "Chat",
+        "id": 6331746672,
+        "type": "ChatType.PRIVATE",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "AndreySvodin",
+        "first_name": "Адрей",
+        "last_name": "Сводин",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADAgAD0NUxGwAB5YhJABACAANwyWZ5AQADcroDlnmtY8sABB4E",
+            "small_photo_unique_id": "AgAD0NUxGwAB5YhJ",
+            "big_file_id": "AQADAgAD0NUxGwAB5YhJABADAANwyWZ5AQADcroDlnmtY8sABB4E",
+            "big_photo_unique_id": "AgAD0NUxGwAB5YhJ"
+        },
+        "dc_id": 2
+    },
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "has_protected_content": false,
+    "text": "аовылдфваылджавофлофвждыл",
+    "outgoing": false
+}
